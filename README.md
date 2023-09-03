@@ -53,5 +53,5 @@
 ```
 ### Implementation
 
-[x] using Array 
-[_] using LinkedList
+- [x] using Array 
+- [ ] using LinkedList
