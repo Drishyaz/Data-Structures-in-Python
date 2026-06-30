@@ -1,4 +1,4 @@
-# Data-Structures-in-Python
+# Data-Structures
 
 ## Stack
 
